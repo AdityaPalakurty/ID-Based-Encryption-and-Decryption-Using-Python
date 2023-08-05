@@ -1,4 +1,4 @@
-# Secure-Message-Encryption-and-Decryption-Using-Python
+# ID-Based-Encryption-and-Decryption-Using-Python
 Message Encryption and Decryption, 
 this Python program presents a secure message encryption and decryption system. It consists of two main functions: encrypt and decrypt, which allow users to safeguard and recover messages using a customized encryption scheme.
 
