@@ -7,3 +7,6 @@ In the encryption process, a receiver ID, comprising a sequence of digits from 0
 The decryption process reverses the encryption by utilizing the receiver ID. The encrypted message undergoes a series of reverse transformations to retrieve the original message. The decryption process ensures that only the intended recipient, with the appropriate receiver ID, can decode and access the original message.
 
 The script also features a user-friendly interface, allowing users to choose between encryption, decryption, and exiting the system. Users are guided to provide the receiver's ID and the message to be sent. The encrypted message is displayed for encryption, while decryption requires the input of the encrypted message. Overall, this program provides a creative and customizable approach to message security and retrieval.
+
+**Note:**
+This project was accomplished by drawing insights from open literature and online resources available on the internet.
